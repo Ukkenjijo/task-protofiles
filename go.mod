@@ -3,6 +3,7 @@ module github.com/Ukkenjijo/task-protofiles
 go 1.22.5
 
 require (
+	github.com/golang/protobuf v1.5.4
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.4
 )
